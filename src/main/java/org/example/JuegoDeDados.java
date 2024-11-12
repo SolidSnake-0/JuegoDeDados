@@ -1,3 +1,6 @@
+import org.example.Calculadora;
+import org.example.Dado;
+
 public class JuegoDeDados {
     private Dado dado1;
     private Dado dado2;
