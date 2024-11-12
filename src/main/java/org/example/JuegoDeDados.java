@@ -1,3 +1,5 @@
+package org.example;
+
 import org.example.Calculadora;
 import org.example.Dado;
 

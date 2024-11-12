@@ -1,7 +1,7 @@
+import org.example.JuegoDeDados;
 
 public class Main {
     public static void main(String[] args) {
-        JuegoDeDados juego = new JuegoDeDados();
-        juego.jugar();
+        new JuegoDeDados().jugar();
     }
 }
